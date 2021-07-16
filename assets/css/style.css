@@ -1,0 +1,10 @@
+body {
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.icono {
+    width: 2rem;
+    height: 2rem;
+}
