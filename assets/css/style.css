@@ -17,3 +17,7 @@ body {
 .tarjeta {
     width: 14rem;
 }
+
+.on-scroll {
+    background-color: #0dcaf0;
+}
